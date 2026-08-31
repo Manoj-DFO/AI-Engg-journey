@@ -7,3 +7,6 @@ for i ,n in enumerate(nums):
     if required in dit:
         print(f'{dit[required]},{i}')
     dit[n]=i
+
+
+    
